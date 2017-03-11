@@ -1,0 +1,11 @@
+Contract: Mine Your Business - Crypto in the house
+Handler - gr3yR0n1n
+Description
+Upon reaching Rivendell, you discover the vast elvish nation is abandoned, including your friends. However, you notice a book open on a table, with the following text, which can only be read by moonlight with a glass lens.
+
+Briefing
+iVBORw0KGgoAAAANSUhEUgAAAV4AAAFeAQAAAADlUEq3AAAABGdBTUEAALGPC/xhBQAAAAJiS0dE AAHdihOkAAAAB3RJTUUH4QMHFw46il1hJwAAAb1JREFUaN7t10FOxTAMBNDcxPe/lQ+CFGg946Qt SJ/E3U0RH7V5ZYETe2j98+urCQsLCwsLC7+GvZ2Xdbfjzs7v46HlinAFtvj0y+rPvXFFuAb7UYCz EChLPBorwoXY4yP2etwIv4Bjw7Mm1oWrcR9NJd/JH124CKOD+/Pr7wkr/G88X9j06DnzivAu9paB zyL7WbzEOgmX4M6ZmVVgP49XrptfeBlfdj1nZTN08V9OivAKxrMsC2I3J+it8wuv4ljC3MTqVCMc CeFdjPk4T0q+ivkpXIFzcWbs5nwuvI29sZ1w02eTeQ5N4WXcsfHzIPAuAqA/Kyi8gv0aQwLMqVu4 BEdNop/HrDQkQRwKE67A50JuduSTnKCsl/A2biOb2MgqjIC3JiO8jm0E7JYQMeXekYSX8fy3z9jn 3P5+TTLC69hJpxDIBnNPjMLrmCfAuO0thub4l0Z4H/OaS4MImCUR3sfxx4+ewrrwSCCtCFdgw2da FARFiXXhfRyPUAAMSTQZ4y8TLsPN+ngtEopllxEuw+fyiH0+krZwCR5LGVA62w7zifA2HkOTR8Cy OplYhHfxZ5ewsLCwsLDwK/gbEmli3BCRr6MAAAAldEVYdGRhdGU6Y3JlYXRlADIwMTctMDMtMDdU MjM6MTU6MDItMDc6MDDmHWk5AAAAJXRFWHRkYXRlOm1vZGlmeQAyMDE3LTAzLTA3VDIzOjE0OjU4 LTA3OjAwlBLrkQAAAABJRU5ErkJggg==
+
+Sparkle Points 400.00 
+
+Contract Completed March 9, 2017, 8:48 p.m.
