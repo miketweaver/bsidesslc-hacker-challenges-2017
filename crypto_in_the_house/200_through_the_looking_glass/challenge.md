@@ -1,12 +1,14 @@
-Contract: Through the Looking Glass - Crypto in the house
+##Contract: Through the Looking Glass - Crypto in the house
 Handler - nemus
-Description
+
+##Description
 What do you see?
 
-Briefing
+##Briefing
 no clue for you
 
-Contract Files
-Sparkle Points 200.00 
+##Contract Files
+![c1.png](files/c1.png)
 
-Contract Completed March 10, 2017, 12:11 a.m.
+##Sparkle Points
+200.00 
