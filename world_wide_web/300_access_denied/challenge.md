@@ -1,9 +1,11 @@
-Contract: Access Denied - World Wide Web
+##Contract: Access Denied - World Wide Web
 Handler - lawticus
-Description
+
+##Description
 Can you access the system?
 
-Briefing
+##Briefing
 HAVE FUN AT THE PAGE OR THE START YOU ONLY HAVE ACCESS LIKE BART IF ONLY THERE WAS A WAY TO SEE SOME TOKENS BUT WHERE WOULD THEY BE
 
-Sparkle Points 300.00 
+##Sparkle Points
+300.00 
