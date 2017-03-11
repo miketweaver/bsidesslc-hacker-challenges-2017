@@ -1,12 +1,14 @@
-Contract: Reverse Me - Reversing Required
+##Contract: Reverse Me - Reversing Required
 Handler - gr3yR0n1n
-Description
+
+##Description
 Not much more to say
 
-Briefing
+##Briefing
 Okay, look to the types of files you have...or don't
 
-Contract Files
-Sparkle Points 200.00 
+##Contract Files
+[ReverseIt](files/ReverseIt)
 
-Contract Completed March 10, 2017, 3:05 a.m.
+##Sparkle Points
+200.00
