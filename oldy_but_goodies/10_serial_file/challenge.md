@@ -1,12 +1,14 @@
-Contract: Serial File - Oldy But Goodies
+##Contract: Serial File - Oldy But Goodies
 Handler - gr3yR0n1n
-Description
+
+##Description
 Everyone in a line now
 
-Briefing
+##Briefing
 no clue for you
 
-Contract Files
-Sparkle Points 10.00 
+##Contract Files
+[load_em_up.txt](files/load_em_up.txt)
 
-Contract Completed March 10, 2017, 2:03 a.m.
+##Sparkle Points
+10.00

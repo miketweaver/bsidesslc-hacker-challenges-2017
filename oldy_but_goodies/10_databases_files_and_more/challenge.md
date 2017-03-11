@@ -1,13 +1,15 @@
-
-Contract: Databases Files & More - Oldy But Goodies
+##Contract: Databases Files & More - Oldy But Goodies
 Handler - gr3yR0n1n
-Description
+
+##Description
 Where's Waldo
 
-Briefing
+##Briefing
 not here
 
-Contract Files
-Sparkle Points 10.00 
+##Contract Files
+I could not download the files. It always gave me a `403 Forbidden`
+The file was named `backup.db`
 
-
+##Sparkle Points
+10.00 

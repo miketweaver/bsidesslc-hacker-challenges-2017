@@ -1,11 +1,14 @@
-
-Contract: Where's the Party?! - Oldy But Goodies
+##Contract: Where's the Party?! - Oldy But Goodies
 Handler - gr3yR0n1n
-Description
+
+##Description
 All the music, All the time
 
-Briefing
+##Briefing
 no clue for you
 
-Contract Files
-Sparkle Points 10.00 
+##Contract Files
+[party.lst](files/party.lst)
+
+##Sparkle Points
+10.00 
