@@ -76,7 +76,7 @@ Ok. That's weird. Very flattering picture, but...
 
 What do we enter in as the key? 
 
-The title of the challenge is: `Who's got a handle on this?`, and the filename is `sean` backwards. So maybe [Sean Jackson's](https://twitter.com/74rku5) handle `74rku5`?
+The title of the challenge is: `Who's got a handle on this?`, the filename is `sean` backwards, and the picture is of Sean Jackson. So maybe [Sean Jackson's](https://twitter.com/74rku5) handle `74rku5`?
 
 Yes!
 
