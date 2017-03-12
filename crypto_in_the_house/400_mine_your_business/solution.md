@@ -69,6 +69,8 @@ Perfect! It's a png. Let's look at it:
 
 `$ mv binary binary.png`
 
+And view it:
+
 ![binary.png](solution-files/binary.png)
 
 And scan that with a qr decoder:
