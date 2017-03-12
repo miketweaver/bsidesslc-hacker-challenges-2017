@@ -74,10 +74,12 @@ mn => 4
 
 Ok, this looks pretty standard too. It must be just a normal [cryptogram](https://en.wikipedia.org/wiki/Cryptogram). There's tons of information online about [how to solve](http://www.cryptograms.org/tutorial.php) cryptograms, so go check them out.
 
-My favorite tool for solving this is:
+My favorite tool for solving cryptograms is:
+
 http://scottbryce.com/cryptograms/
 
 And here's the solution:
+
 ![solutionfile-solved.png](solution-files/solutionfile-solved.png)
 
 ## Key
