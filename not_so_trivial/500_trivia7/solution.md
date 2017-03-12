@@ -16,7 +16,7 @@ Jeremiah Grossman 2009
 Which company was lucky enough to win the Most Epic Fail pwnies award with 5 nominations?
 
 Answer format: all lower case
-Sony
+sony
 ---------------------------------------------------------------------------------------
 Final question, please submit this answer online:
 
