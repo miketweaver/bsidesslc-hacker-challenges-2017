@@ -69,11 +69,14 @@ $ mv naes naes.png
 ```
 
 Looks good! Now take a look at it:
+
 ![solution.png](solution-files/solution.png)
 
-Ok. That's weird. What do we enter in as the key? 
+Ok. That's weird. Very flattering picture, but...
 
-The title is: `Who's got a handle on this?`, and the filename is `sean`  backwards. So maybe [Sean Jackson's](https://twitter.com/74rku5) handle `74rku5`?
+What do we enter in as the key? 
+
+The title of the challenge is: `Who's got a handle on this?`, and the filename is `sean` backwards. So maybe [Sean Jackson's](https://twitter.com/74rku5) handle `74rku5`?
 
 Yes!
 
