@@ -2,7 +2,7 @@
 bashNinja - [@miketweaver](https://twitter.com/miketweaver)
 
 ## Solution
-We've given this string:
+We've been given this string:
 
 `FOGSBOTVEELHIEGRDBGISTBEGIGOIEDLNEEVSMDCNAAONOANADNRNLDIEIRR`
 
