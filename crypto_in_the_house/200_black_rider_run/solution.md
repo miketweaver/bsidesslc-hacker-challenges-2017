@@ -23,7 +23,7 @@ It looks like it missed the letter `K`, which we can guess from the words. Add t
 
 ## Better Solution
 
-I talking with [Aaron](https://twitter.com/AaronToponce) after the competition and he shared that the best way to solve this is frequency analysis. Hence why quipqiup worked so well. Frequency analysis is basically counting the number of occurrences of a letter (or sets of letters). 
+I talked with [Aaron](https://twitter.com/AaronToponce) after the competition and he shared that the best way to solve this is frequency analysis. Hence why quipqiup worked so well. Frequency analysis is basically counting the number of occurrences of a letter (or sets of letters). 
 
 The tool I used for single character analysis was:
 http://www.simonsingh.net/The_Black_Chamber/letterfrequencies.html
