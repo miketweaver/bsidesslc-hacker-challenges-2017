@@ -11,15 +11,15 @@ We were given:
 GBTVT XZ AIBBSXCP CT TBVXCIBS QBXCUNQ XC MXZ WTAUNQ. MN PTQ XCQT I QOZZEN FXQM ZTRN TG QMN WIQBTCZ, QMNC VXZIWWNIBNV IGQNB GIEEXCP TC QMN GETTB. ZNNRZ QT MIDN VBIFC IQQNCQXTC. BOCCXCP.
 ```
 
-I spend almost 20 minutes piling through various ciphers/keys and never got anywhere. By looking at it, it looks like a substution cipher as it keeps its formatting with commas and periods.
+I spend almost 20 minutes piling through various ciphers/keys and never got anywhere. By looking at it, it looks like a simple substution cipher as it keeps its formatting with commas and periods. 
 
-At this point I decided to through it through an automated tool:
+At this point I decided to throw it through an automated tool:
 http://quipqiup.com/
 
 That's better:
-`	FRODO IS CARRYING NO ORDINARY TRIN?ET IN HIS POC?ET. HE GOT INTO A TUSSLE WITH SOME OF THE PATRONS, THEN DISAPPEARED AFTER FALLING ON THE FLOOR. SEEMS TO HAVE DRAWN ATTENTION. RUNNING`
+`FRODO IS CARRYING NO ORDINARY TRIN?ET IN HIS POC?ET. HE GOT INTO A TUSSLE WITH SOME OF THE PATRONS, THEN DISAPPEARED AFTER FALLING ON THE FLOOR. SEEMS TO HAVE DRAWN ATTENTION. RUNNING`
 
-It looks like it missed the letter K, which we can guess from the words. Add that in, and we've got it!
+It looks like it missed the letter `K`, which we can guess from the words. Add that in, and we've got it!
 
 ## Better Solution
 
