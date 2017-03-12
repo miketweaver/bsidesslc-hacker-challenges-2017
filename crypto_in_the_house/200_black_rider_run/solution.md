@@ -27,7 +27,7 @@ After talking with [Aaron](https://twitter.com/AaronToponce) after the competiti
 The tool I used for single character analysis was:
 http://www.simonsingh.net/The_Black_Chamber/letterfrequencies.html
 
-![solutionfile-frequency.gif](/crypto_in_the_house/200_black_rider_run/solutionfile-frequency.gif)
+![single-letter-frequency](solution-files/single-letter-frequency.png)
 
 Now this looks pretty evenly spread. There are a few spikes, 
 
