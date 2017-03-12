@@ -9,7 +9,7 @@ THE LEPRAUCHAN IS NOW HIDDEN IF ONLY HE COULD BE BIDDEN TO GIVE US UP HIS GOLD A
 
 Ok we're looking for a Name, and they have the word Hosts? Weird. Let's look at the page they gave us in the previous challenge.
 
-What we saw was a page that said 'nope nope nope'. If you pull up the source code you see a comment saying they haven't setup their DNS, the domain should be `slc.punk`, and that you could add it into your hosts file. Notice the use of the word 'hosts'? This is what we're lookin for. Let's add that to our hosts file.
+What we saw was a page that said 'nope nope nope'. If you pull up the source code you see a comment saying they haven't setup their DNS, the domain should be `slc.punk`, and that you could add it into your hosts file. Notice the use of the word 'hosts'? It matches our hint. This is what we're looking for. Let's add that to our hosts file.
 
 On a Mac:
 `sudo echo -n "45.76.9.79	slc.punk" >> /etc/hosts`
