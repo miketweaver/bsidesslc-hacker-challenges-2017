@@ -59,7 +59,7 @@ $ xxd naes | head -n 2
 
 Perfect. That's the same as [200 - Reverse Me](reversing_required/200_reverse_me/challenge.md). Let's fix it.
 
-Add `89504e47` to the beginning of the binary file using your hex editor.
+Add `89504e47` to the beginning of the binary file using your hex editor. After that's done, let's look at it.
 
 ```
 $ file naes
@@ -68,10 +68,12 @@ naes: PNG image data, 415 x 279, 8-bit/color RGB, non-interlaced
 $ mv naes naes.png
 ```
 
-And take a look at it:
+Looks good! Now take a look at it:
 ![solution.png](solution-files/solution.png)
 
-Ok. That's weird. What do we enter in as the key? The title is: `Who's got a handle on this?`, and the filename is `sean`  backwards. So maybe [Sean Jackson's](https://twitter.com/74rku5) handle `74rku5`?
+Ok. That's weird. What do we enter in as the key? 
+
+The title is: `Who's got a handle on this?`, and the filename is `sean`  backwards. So maybe [Sean Jackson's](https://twitter.com/74rku5) handle `74rku5`?
 
 Yes!
 
