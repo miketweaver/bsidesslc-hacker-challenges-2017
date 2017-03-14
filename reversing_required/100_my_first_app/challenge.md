@@ -1,14 +1,14 @@
-##Contract: My First App - Reversing Required
+## Contract: My First App - Reversing Required
 Handler - gr3yR0n1n
 
-##Description
+## Description
 Know Your Tools
 
-##Briefing
+## Briefing
 look to the tools
 
-##Contract Files
+## Contract Files
 [MyFirstApp](files/MyFirstApp)
 
-##Sparkle Points
+## Sparkle Points
 100.00 
