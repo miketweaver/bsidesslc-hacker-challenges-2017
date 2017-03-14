@@ -3,7 +3,7 @@ bashNinja - [@miketweaver](https://twitter.com/miketweaver)
 
 ## Solution
 
-Ok.  We're given this file, let's take a look at it. (take a look at [200 - Reverse Me](https://github.com/miketweaver/bsidesslc-hacker-challenges-2017/blob/master/reversing_required/200_reverse_me/solution.md#solution) for info on how `file` works.
+Ok.  We're given this file, let's take a look at it. (take a look at [200 - Reverse Me](https://github.com/miketweaver/bsidesslc-hacker-challenges-2017/blob/master/reversing_required/200_reverse_me/solution.md#solution) for info on how `file` works.)
 ```
 $ file party.lst
 party.lst: ASCII text
