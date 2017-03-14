@@ -1,14 +1,14 @@
-##Contract: Who's got a handle on this? - Reversing Required
+## Contract: Who's got a handle on this? - Reversing Required
 Handler - gr3yR0n1n
 
-##Description
+## Description
 Left my forensics at home
 
-##Briefing
+## Briefing
 I'm out of clues
 
-##Contract Files
+## Contract Files
 [naes](files/naes)
 
-##Sparkle Points
+## Sparkle Points
 400.00 
