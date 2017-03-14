@@ -38,7 +38,7 @@ if you spend all day shuffling words around, you can make anything sound bad, Mo
 ;	75�
            �nk�rq��
 ```
-Basically it gives you a bunch of junk until it hits the right cipher, then it prints ot the good text and keeps going.
+Basically it gives you a bunch of junk until it hits the right cipher, then it prints out the good text and keeps going.
 
 Sweet!
 ## Key
