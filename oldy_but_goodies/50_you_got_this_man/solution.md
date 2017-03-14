@@ -3,7 +3,7 @@
 bashNinja - [@miketweaver](https://twitter.com/miketweaver)
 
 ## Solution
-Ok... This is encrypted some how. They give us the key. The challenge must be to find the encryption method. I ran it through some common classical ciphers, but then realized the ciphertext all seemed to be hex characters. It must be a modern cipher. 
+Ok... This is encrypted somehow. They give us the key and the text. The challenge must be to find the encryption method. I ran it through some common classical ciphers, but then realized the ciphertext all seemed to be hex characters. It must be a modern cipher. 
 
 I wrote this to run in through all possible ciphers with openssl:
 ```
