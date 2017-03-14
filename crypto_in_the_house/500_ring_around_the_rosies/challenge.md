@@ -1,11 +1,11 @@
-##Contract: Ring Around the Rosies - Crypto in the house
+## Contract: Ring Around the Rosies - Crypto in the house
 Handler - gr3yR0n1n
 
-##Description
+## Description
 You have reached the mines of Moria. An envelope is left for
 
-##Briefing
+## Briefing
 PFMUM FYEQS MTHXZ WXCMD WQIJA YIUGN LRVLS GNGVH VAFRV PTZLR YLSGN STOEF VTPUZ MGEJC YGTKJ LRVLS GNPFA via: Aaron
 
-##Sparkle Points
+## Sparkle Points
 500.00 
