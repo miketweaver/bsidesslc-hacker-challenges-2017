@@ -1,14 +1,14 @@
-##Contract: Observing the Bits - Oldy But Goodies
+## Contract: Observing the Bits - Oldy But Goodies
 Handler - gr3yR0n1n
 
-##Description
+## Description
 Look to the File
 
-##Briefing
+## Briefing
 clue already given
 
-##Contract Files
+## Contract Files
 https://www.amazon.com/clouddrive/share/wJkOoLYn4opdKcSJEDCslui2f6lSc5hGiM2JveFQpjg
 
-##Sparkle Points
+## Sparkle Points
 10.00
