@@ -1,14 +1,14 @@
-##Contract: Afile - Oldy But Goodies
+## Contract: Afile - Oldy But Goodies
 Handler - nemus
 
-##Description
+## Description
 This Is my File
 
-##Briefing
+## Briefing
 This is my file it has many meanings.
 
-##Contract Files
+## Contract Files
 [afile.txt](files/afile.txt)
 
-##Sparkle Points
+## Sparkle Points
 5.00
