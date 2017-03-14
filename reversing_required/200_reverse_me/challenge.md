@@ -1,14 +1,14 @@
-##Contract: Reverse Me - Reversing Required
+## Contract: Reverse Me - Reversing Required
 Handler - gr3yR0n1n
 
-##Description
+## Description
 Not much more to say
 
-##Briefing
+## Briefing
 Okay, look to the types of files you have...or don't
 
-##Contract Files
+## Contract Files
 [ReverseIt](files/ReverseIt)
 
-##Sparkle Points
+## Sparkle Points
 200.00
