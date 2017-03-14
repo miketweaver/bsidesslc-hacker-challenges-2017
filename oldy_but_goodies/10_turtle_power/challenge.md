@@ -1,14 +1,14 @@
-##Contract: Turtle Power - Oldy But Goodies
+## Contract: Turtle Power - Oldy But Goodies
 Handler - gr3yR0n1n
 
-##Description
+## Description
 Some turtles hide in their shells
 
-##Briefing
+## Briefing
 no clue for you
 
-##Contract Files
+## Contract Files
 [turtle.bin](files/turtle.bin)
 
-##Sparkle Points
+## Sparkle Points
 10.00 
