@@ -71,7 +71,7 @@ battery:
 .: @gr3yR0n1n :.
 ```
 
-You'll see that intersting bit? It didn't appear in SysEx Librarian. Neither did any of that... Hexlike text? Awesome! Let's look at that.
+You'll see that interesting bit? It didn't appear in SysEx Librarian. Neither did any of that... Hexlike text? Awesome! Let's look at that.
 
 Dump:
 ```
