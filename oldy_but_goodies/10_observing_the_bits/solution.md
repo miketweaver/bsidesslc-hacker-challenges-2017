@@ -66,7 +66,7 @@ Well, it's a linux executable; `ELF 64-bit`. I don't know an easy way to run thi
 ```
 $ scp myThirdApp root@kali:/tmp
 root@kali's password:
-myThirdApp                                                                                100% 7024     1.7MB/s   00:00
+myThirdApp                                                                        100% 7024     1.7MB/s   00:00
 
 $ ssh root@kali
 root@kali's password:
