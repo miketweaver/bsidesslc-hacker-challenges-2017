@@ -1,11 +1,11 @@
-##Contract: Trivia 3 - Not so Trivial
+## Contract: Trivia 3 - Not so Trivial
 Handler - gr3yR0n1n
 
-##Description
+## Description
 What was the first politically motivated (Hacktivist) malware?
 
-##Briefing
+## Briefing
 no clue for you
 
-##Sparkle Points
+## Sparkle Points
 200.00 
