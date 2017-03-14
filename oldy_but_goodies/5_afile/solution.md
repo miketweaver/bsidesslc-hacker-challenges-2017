@@ -35,7 +35,7 @@ for x in range(0,int(sys.argv[1])):
   content = base64.b64decode(content);
 print(content)
 ```
-Here's me running it:
+Here's me running it. You have to guess and check the number of times to run it. Not elegant, but it works:
 ```
 $ python decode.py 50
 Wm1sc1pYTmtiM2RvWVhSaFptbHNaV1J2WlhNPQ==
